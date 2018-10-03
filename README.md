@@ -4,4 +4,4 @@ For more information see https://michaelryom.dk/log-insight-content-pack-for-hpe
 
 <img src="https://github.com/MichaelRyom/HPE-OA-Content-pack/blob/master/HP_OA_Overview.png">
 <img src="https://github.com/MichaelRyom/HPE-OA-Content-pack/blob/master/HP_OA_Changes.png">
-
+<img src="https://github.com/MichaelRyom/HPE-OA-Content-pack/blob/master/HP_OA_Authentication.png">
